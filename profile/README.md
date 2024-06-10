@@ -1,6 +1,7 @@
 ## PLUGINS & PACKAGES IMPLEMENTATIONS 
 This is a repository where I take time out of my day to figure out one plugin per day to implement a sensible project that makes it the central of attention as they all deserve.
-I will also come back to previous projects in an attempt to make them as central as possible. By improving design, whether the backend or the frontend.
+</br>
+I will also come back to previous projects in an attempt to make them as central as possible. By improving design, whether the backend or the front end.
 
 <!--
 
